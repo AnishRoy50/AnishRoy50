@@ -22,7 +22,7 @@
 
 
 ## 📫 Let's Connect
-- 📧 Email: royanish5kb2m@gmail.com
+- 📧 Email: anish.roy.official.bd@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/anishroy)  
 - 🌐 [Portfolio Website]
 

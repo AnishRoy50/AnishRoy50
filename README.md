@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Anish Roy
 
-### Electronics & Communication Engineer | Full-Stack Developer | AI Enthusiast
+### Software Engineer | AI Enthusiast | Dreamer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AnishRoy50&color=blueviolet&style=flat-square)](https://github.com/AnishRoy50)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/anishroy](https://www.linkedin.com/in/anishroy50/))

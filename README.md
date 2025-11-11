@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm an undergraduate student pursuing **Electronics and Communication Engineering**, with a deep passion for **software development** and **intelligent systems**.
+🎓 I'm an **Electronics and Communication Engineering** graduate, with a deep passion for **software development** and **intelligent systems**.
 
 - 👨‍💻 I write clean, scalable, and efficient code
 - 🔁 I love building full-stack applications using modern **frontend** and **backend** frameworks

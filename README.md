@@ -122,6 +122,6 @@
 
 **Thanks for visiting! 😊**
 
-![Snake animation](https://raw.githubusercontent.com/AnishRoy50/AnishRoy50/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AnishRoy50/output/github-contribution-grid-snake.svg)
 
 </div>

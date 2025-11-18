@@ -5,7 +5,7 @@
 ### Software Engineer | AI Enthusiast | Dreamer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AnishRoy50&color=blueviolet&style=flat-square)](https://github.com/AnishRoy50)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/anishroy](https://www.linkedin.com/in/anishroy50/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/anishroy50](https://www.linkedin.com/in/anishroy50/))
 [![Email](https://img.shields.io/badge/Email-royanish.career@gmail.com-red?style=flat-square&logo=gmail)](mailto:royanish.career@gmail.com)
 
 </div>

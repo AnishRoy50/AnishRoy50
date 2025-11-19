@@ -78,15 +78,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AnishRoy50&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
 
 ## 📈 Activity Graph
 
